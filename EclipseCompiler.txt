@@ -1,0 +1,56 @@
+15 Aug 2019 3:19:19 GMT: Log 'EclipseCompiler.txt' opened: 15 Aug 2019 3:19:19 GMT with name E:\CSE220\lab\l3\prioti saha tonny _1801211_ lab 03\EclipseCompiler.txt
+15 Aug 2019 3:20:28 GMT: diagnostics = javax.tools.DiagnosticCollector@1188b9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@98c829
+fileObjects = [E:\CSE220\lab\l3\prioti saha tonny _1801211_ lab 03\CircularArray.java, E:\CSE220\lab\l3\CircularArray.java]
+15 Aug 2019 3:20:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1de0223' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\l3\prioti saha tonny _1801211_ lab 03;E:\CSE220\lab\l3;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+15 Aug 2019 3:20:28 GMT: Compiler call returned
+15 Aug 2019 3:20:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d680ac
+15 Aug 2019 3:20:28 GMT:  Kind = ERROR
+15 Aug 2019 3:20:28 GMT: Name = E:\CSE220\lab\l3\CircularArray.java LineNo = 1 ColNo = 14 Msg = 'The type CircularArray is already defined'
+15 Aug 2019 3:20:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cbae33
+15 Aug 2019 3:20:28 GMT:  Kind = WARNING
+15 Aug 2019 3:20:28 GMT: Name = E:\CSE220\lab\l3\prioti saha tonny _1801211_ lab 03\CircularArray.java LineNo = 112 ColNo = 13 Msg = 'The assignment to variable start has no effect'
+15 Aug 2019 3:20:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15098c6
+15 Aug 2019 3:20:28 GMT:  Kind = WARNING
+15 Aug 2019 3:20:28 GMT: Name = E:\CSE220\lab\l3\prioti saha tonny _1801211_ lab 03\CircularArray.java LineNo = 134 ColNo = 9 Msg = 'The assignment to variable start has no effect'
+15 Aug 2019 3:20:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c2b5b
+15 Aug 2019 3:20:28 GMT:  Kind = WARNING
+15 Aug 2019 3:20:28 GMT: Name = E:\CSE220\lab\l3\prioti saha tonny _1801211_ lab 03\CircularArray.java LineNo = 170 ColNo = 9 Msg = 'The assignment to variable start has no effect'
+15 Aug 2019 3:20:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9ebd38
+15 Aug 2019 3:20:28 GMT:  Kind = WARNING
+15 Aug 2019 3:20:28 GMT: Name = E:\CSE220\lab\l3\prioti saha tonny _1801211_ lab 03\CircularArray.java LineNo = 192 ColNo = 9 Msg = 'The assignment to variable start has no effect'
+15 Aug 2019 3:20:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5429ae
+15 Aug 2019 3:20:28 GMT:  Kind = WARNING
+15 Aug 2019 3:20:28 GMT: Name = E:\CSE220\lab\l3\prioti saha tonny _1801211_ lab 03\CircularArray.java LineNo = 113 ColNo = 17 Msg = 'The value of the local variable position is not used'
+15 Aug 2019 3:20:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@123014a
+15 Aug 2019 3:20:28 GMT:  Kind = WARNING
+15 Aug 2019 3:20:28 GMT: Name = E:\CSE220\lab\l3\prioti saha tonny _1801211_ lab 03\CircularArray.java LineNo = 135 ColNo = 13 Msg = 'The value of the local variable position is not used'
+15 Aug 2019 3:20:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cfe46
+15 Aug 2019 3:20:28 GMT:  Kind = WARNING
+15 Aug 2019 3:20:28 GMT: Name = E:\CSE220\lab\l3\prioti saha tonny _1801211_ lab 03\CircularArray.java LineNo = 137 ColNo = 13 Msg = 'The value of the local variable lastpos is not used'
+15 Aug 2019 3:20:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14afb82
+15 Aug 2019 3:20:28 GMT:  Kind = WARNING
+15 Aug 2019 3:20:28 GMT: Name = E:\CSE220\lab\l3\prioti saha tonny _1801211_ lab 03\CircularArray.java LineNo = 171 ColNo = 13 Msg = 'The value of the local variable position is not used'
+15 Aug 2019 3:20:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46b2dc
+15 Aug 2019 3:20:28 GMT:  Kind = WARNING
+15 Aug 2019 3:20:28 GMT: Name = E:\CSE220\lab\l3\prioti saha tonny _1801211_ lab 03\CircularArray.java LineNo = 173 ColNo = 13 Msg = 'The value of the local variable lastpos is not used'
+15 Aug 2019 3:20:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@122c1cf
+15 Aug 2019 3:20:28 GMT:  Kind = WARNING
+15 Aug 2019 3:20:28 GMT: Name = E:\CSE220\lab\l3\prioti saha tonny _1801211_ lab 03\CircularArray.java LineNo = 193 ColNo = 13 Msg = 'The value of the local variable position is not used'
+15 Aug 2019 3:20:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c7f3e3
+15 Aug 2019 3:20:28 GMT:  Kind = WARNING
+15 Aug 2019 3:20:28 GMT: Name = E:\CSE220\lab\l3\prioti saha tonny _1801211_ lab 03\CircularArray.java LineNo = 195 ColNo = 13 Msg = 'The value of the local variable lastpos is not used'
+15 Aug 2019 3:20:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b8f52
+15 Aug 2019 3:20:28 GMT:  Kind = WARNING
+15 Aug 2019 3:20:28 GMT: Name = E:\CSE220\lab\l3\prioti saha tonny _1801211_ lab 03\CircularArray.java LineNo = 218 ColNo = 13 Msg = 'The value of the local variable sz is not used'
+15 Aug 2019 3:20:46 GMT: diagnostics = javax.tools.DiagnosticCollector@1d38213
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4658ea
+fileObjects = [E:\CSE220\lab\l3\CircularArray.java, E:\CSE220\lab\l3\CircularArrayTester.java]
+15 Aug 2019 3:20:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1711d02' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\l3;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+15 Aug 2019 3:20:46 GMT: Compiler call returned
+15 Aug 2019 3:20:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fe1e41
+15 Aug 2019 3:20:46 GMT:  Kind = ERROR
+15 Aug 2019 3:20:46 GMT: Name = E:\CSE220\lab\l3\CircularArray.java LineNo = 261 ColNo = 13 Msg = 'Cannot cast from java.lang.Object to int'
+15 Aug 2019 3:20:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9cf886
+15 Aug 2019 3:20:46 GMT:  Kind = ERROR
+15 Aug 2019 3:20:46 GMT: Name = E:\CSE220\lab\l3\CircularArray.java LineNo = 261 ColNo = 25 Msg = 'Cannot cast from java.lang.Object to int'
